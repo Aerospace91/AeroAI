@@ -1,5 +1,5 @@
 def main():
-    print("Am I AI?")
+    print("Hello from AeroAI")
 
 
 
